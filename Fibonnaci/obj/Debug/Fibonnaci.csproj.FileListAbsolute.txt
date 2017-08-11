@@ -1,0 +1,6 @@
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Fibonnaci\Fibonnaci\bin\Debug\Fibonnaci.exe.config
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Fibonnaci\Fibonnaci\bin\Debug\Fibonnaci.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Fibonnaci\Fibonnaci\bin\Debug\Fibonnaci.pdb
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Fibonnaci\Fibonnaci\obj\Debug\Fibonnaci.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Fibonnaci\Fibonnaci\obj\Debug\Fibonnaci.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\Fibonnaci\Fibonnaci\obj\Debug\Fibonnaci.pdb
